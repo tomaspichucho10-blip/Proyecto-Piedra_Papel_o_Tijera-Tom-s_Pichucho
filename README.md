@@ -11,7 +11,7 @@ Luis Tomás Pichucho Molina
 Desarrollar un juego interactivo en Python que permita al usuario competir contra la computadora, aplicando estructuras condicionales, ciclos repetitivos y funciones.
 
 # Principales funcionalidades del código
-- empezar con el nombre del juego "YAN-KEN-PO"
+- Empieza con el nombre del juego "YAN-KEN-PO"
 - Escribir su nombre de jugador.
 - Esoger entre jugar o salir del juego.
 - Mostrar las reglas del juego.
