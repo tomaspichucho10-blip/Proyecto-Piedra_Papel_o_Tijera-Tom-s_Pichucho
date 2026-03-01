@@ -23,10 +23,10 @@ Desarrollar un juego interactivo en Python que permita al usuario competir contr
 - Mostrar el resultado final con un mensaje de "gracias por jugar, nombre".
 
 # Tecnologías utilizadas
-- Python
-- Spyder
+- Python (Python)
+- Spyder (Spyder)
 
 # Archivos incluidos
-- juego (código principal)
+- Juego (código principal)
 - Documento del proyecto 
 - Presentación en Power Point
