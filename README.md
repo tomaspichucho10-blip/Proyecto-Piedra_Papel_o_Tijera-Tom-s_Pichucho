@@ -1,5 +1,5 @@
 # Proyecto-Piedra_Papel_o_Tijera-Tomás_Pichucho
-Proyecto final de Lógica de programación en Python (Spyder)
+Proyecto final de Lógica de programación en Python (Spyder) del juego de pierda, papel o tijera.
 
 # Fecha
 1 de marzo de 2026
@@ -27,6 +27,6 @@ Desarrollar un juego interactivo en Python que permita al usuario competir contr
 - Spyder (Spyder)
 
 # Archivos incluidos
-- Juego (código principal)
-- Documento del proyecto 
+- Juego.py (código principal)
+- Documento del proyecto con los flujogramas y todo en Word. docx
 - Presentación en Power Point
