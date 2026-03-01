@@ -28,5 +28,5 @@ Desarrollar un juego interactivo en Python que permita al usuario competir contr
 
 # Archivos incluidos
 - Juego.py (código principal)
-- Documento del proyecto con los flujogramas y todo en Word. docx
-- Presentación en Power Point
+- Documento del proyecto con los flujogramas y todo en Word.docx
+- Presentación en Power Point.pptx
